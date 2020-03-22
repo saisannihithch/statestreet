@@ -1,0 +1,19 @@
+.transactions-cntr{
+    text-align: left;
+    margin:auto;
+}
+.filters{
+    width:20%;
+}
+.transactions{
+    width: 100%;
+}
+.transactions-body{
+    display:flex;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+h1{
+    font-family: sans-serif;
+}
